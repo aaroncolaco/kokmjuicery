@@ -49,6 +49,22 @@
 	font-size: 1.2em;
 }
 
+.bottles .container {
+	margin-bottom: 8%;
+}
+
+.bottles .container img {
+	height: 20%;
+	width: 30%;
+	display: block;
+}
+
+.bottles .secondary .jeera-img {
+	height: 22%;
+	width: 32%;
+}
+
+
 #contact {
 	margin-top: 5%;
 	padding-bottom: 5%;
