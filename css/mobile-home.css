@@ -44,25 +44,34 @@
 	text-align: center;
 }
 
+.bottles .container {
+	margin: 0 auto;
+	margin-bottom: 8%;
+}
+
+/*.bottles .container .col-md-2 {
+	padding-right: 5%;
+}*/
+
+.bottles .container img {
+	display: block;
+	height: 110%;
+	width: 120%;
+}
+
+.bottles .container .kokam-bottle {
+	height: 105%;
+	width: 115%;
+}
+
+.bottles .container .jeera-bottle {
+	height: 120%;
+	width: 130%;
+}
+
 .green-text {
 	color: #94C700;
 	font-size: 1.2em;
-}
-
-.bottles .container {
-	margin-top: 5%;
-	margin-bottom: 15%;
-}
-
-.bottles .container img {
-	height: 50%;
-	width: 60%;
-	display: block;
-}
-
-.bottles .container .secondary .jeera-img {
-	height: 52%;
-	width: 62%;
 }
 
 
