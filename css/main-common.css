@@ -38,19 +38,28 @@ body {
 	font-size: 1.3em;
 }
 
+.nav.navbar-nav {
+	margin-left: 5%;
+}
+
 .nav.navbar-nav li a {
-	color: #ffffff;
-	font-size: 1.2em;
+	color: #8f1210;
+	font-size: 1.3em;
+
+	display:inline;
+	line-height: 4em;
+
+	text-align: center;
 }
 
 .nav.navbar-nav li a:hover {
-	color: #ffffff;
+	color: #8f1210;
 	border-bottom: 1px solid #efefef;
 	padding-bottom: 4px;
 }
 
 .navbar-default .navbar-collapse .navbar-nav > .active a {
-	color: #ffffff;
+	color: #8f1210;
 	background-color: transparent;
 	border-bottom: 2px solid #efefef;
 	padding-bottom: 3px;

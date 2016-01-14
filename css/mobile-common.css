@@ -38,9 +38,14 @@ body {
 	font-size: 1.3em;
 }
 
+.navbar-btn {
+	display: none;
+}
+
 .nav.navbar-nav li a {
-	color: #ffffff;
-	font-size: 1.2em;
+	color: #8f1210;
+	font-size: 1.3em;
+	/*text-align: center;*/
 }
 
 .navbar-default img {
@@ -48,13 +53,13 @@ body {
 }
 
 .nav.navbar-nav li a:hover {
-	color: #ffffff;
+	color: #8f1210;
 	border-bottom: 1px solid #efefef;
 	padding-bottom: 4px;
 }
 
 .navbar-default .navbar-collapse .navbar-nav > .active a {
-	color: #ffffff;
+	color: #8f1210;
 	background-color: transparent;
 	border-bottom: 2px solid #efefef;
 	padding-bottom: 3px;
