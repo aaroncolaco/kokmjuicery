@@ -82,21 +82,13 @@
 }
 
 #contact .fa-paper-plane-o {
-	font-size: 1em;
+	font-size: 0.6em;
 	margin-right: 1em;
 }
 
 #contact > a {
 	color: #94C700;
 	/*font-weight: bold;*/
-	font-size: 1.2em;
+	font-size: 0.8em;
 }
 
-.home .btn-default {
-	color: #ffffff;
-	background-color: transparent;
-	font-size: 1.2em;
-}
-.home .btn-default:hover {
-	background-color: #5a5aad;
-}
