@@ -44,14 +44,11 @@
 	text-align: center;
 }
 
+
 .bottles .container {
 	margin: 0 auto;
 	margin-bottom: 8%;
 }
-
-/*.bottles .container .col-md-2 {
-	padding-right: 5%;
-}*/
 
 .bottles .container img {
 	display: block;
@@ -90,5 +87,23 @@
 	color: #94C700;
 	/*font-weight: bold;*/
 	font-size: 0.8em;
+}
+
+
+.social-logos {
+	position: fixed;
+	top: 40%;
+	left: 90%;
+
+}
+
+.social-logos .container li {
+	color: transparent;
+}
+
+.social-logos .container li i {
+	color: #ffffff;
+	font-size: 2em;
+	margin-bottom: 2em;
 }
 

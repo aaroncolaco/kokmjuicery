@@ -91,3 +91,23 @@
 	font-size: 0.6em;
 }
 
+
+.social-logos {
+	margin-top: 5%;
+	margin-bottom: 10%;
+}
+
+.social-logos .container ul {
+	text-align: center;
+}
+
+.social-logos .container li {
+	color: transparent;
+	display: inline-block;
+}
+
+.social-logos .container li i {
+	color: #ffffff;
+	font-size: 1.6em;
+	margin-right: 2em;
+}
